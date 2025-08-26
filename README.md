@@ -15,7 +15,9 @@ I am a Front-End Developer with prior experience in Product and User Experience,
 - Alura: Complete Front-End Training (01/2024 – 01/2025)
 - EBAC: Front-End Engineer Program (07/2024 – 07/2025)
 - Google Digital Garage: SEO Fundamentals (2024)
-  
+
+###### Languages:
+
 - English (Fluent): Rosetta Stone (2017 – maintenance), Voxy (2014), Uptime (2011), Yázigi Internexus (2009)
 - Spanish (Intermediate): CNA (2013)
 
@@ -37,9 +39,12 @@ Phone: +55 11 9 9940-0949
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deborasete&repo=efood-ecommerce.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deborasete&repo=efood-ecommerce&theme=dark)](https://github.com/deborasete/efood-ecommerce)
 
 ### Languages used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborasete&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Contacts
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/debora-sete)
