@@ -29,8 +29,8 @@ I am a Front-End Developer with prior experience in Product and User Experience,
 
 ###### Contact:
 
-Email: sete.debora@gmail.com
-Phone: +55 11 9 9940-0949
+- Email: sete.debora@gmail.com
+- Phone: +55 11 9 9940-0949
 
 
 ### Details
